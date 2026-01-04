@@ -19,7 +19,8 @@ Bu proje, seçilen e-ticaret ürünlerini (Trendyol, Hepsiburada, N11) otomatik 
 
 ## 📷 Ekran Görüntüleri
 
-*(Buraya projenin çalışırken aldığı bir ekran görüntüsünü ekleyebilirsin)*
+<img width="1919" height="917" alt="Fiyat Takip Asistanı" src="https://github.com/user-attachments/assets/e9774dff-933f-455d-9b79-c6bd53f0eac8" />
+
 
 ---
-*Geliştirici: [Senin Adın]*
+*Geliştirici: Muhammet KONCA
