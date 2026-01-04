@@ -1,0 +1,13 @@
+# --- GEREKSİZ DOSYALAR ---
+__pycache__/
+*.pyc
+venv/
+.env
+
+# --- AĞIR DOSYALAR (Bunlar yüklenmez) ---
+node_modules/
+frontend/node_modules/
+
+# --- GÜVENLİK (Şifrelerini koru!) ---
+mail.py
+fiyat_takip.db
